@@ -17,7 +17,12 @@
   },
   "城市常识":
   {
-    "治安类":"#zhian"
+    "治安类":{
+      "治安":"#zhian",
+      "社会治安综合治理知识科普":"https://m.thepaper.cn/newsDetail_forward_20645012",
+      "警种分类":"https://baike.baidu.com/item/%E8%AD%A6%E7%A7%8D/630673"
+    }
+
   }
 };
 
