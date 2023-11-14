@@ -2,7 +2,10 @@
   var input_data = {
   "学校常识": {
       "link1":"www.baidu.com",
-      "link2":"www.youtube.com"
+      "link2":"www.youtube.com",
+      "体育常识":{
+        "三级跳":"https://www.zhihu.com/question/420386951"
+      }
     },
   "生活常识": {
     "link1":"www.aaa",
