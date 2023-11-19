@@ -25,7 +25,10 @@
       "社会治安综合治理知识科普":"https://m.thepaper.cn/newsDetail_forward_20645012",
       "警种分类":"https://baike.baidu.com/item/%E8%AD%A6%E7%A7%8D/630673"
     }
-
+  },
+  "医学常识":
+  {
+    "日常医学常识网":"https://publicwebdb.github.io/Daily-Medical-Knowledge-Network/",
   }
 };
 
