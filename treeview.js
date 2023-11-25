@@ -1,15 +1,12 @@
   // 根据json生成treeview
   var input_data = {
   "学校常识": {
-      "link1":"www.baidu.com",
-      "link2":"www.youtube.com",
       "体育常识":{
         "三级跳":"https://www.zhihu.com/question/420386951"
       }
     },
   "生活常识": {
-    "link1":"www.aaa",
-    "link2":"www.bbb"
+    "烧饭类":"#life"
   },
   "小区常识":{
     "配电箱的作用":"https://www.zhihu.com/question/348467781"
