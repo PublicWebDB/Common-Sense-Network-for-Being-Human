@@ -26,6 +26,14 @@
   "医学常识":
   {
     "日常医学常识网":"https://publicwebdb.github.io/Daily-Medical-Knowledge-Network/",
+  },
+  "农业常识":
+  {
+    "酿酒":"https://www.zhihu.com/question/435633996"
+  },
+  "中介代理行业":
+  {
+    "拍卖常识":"https://zhidao.baidu.com/question/657090974595753605.html",
   }
 };
 
