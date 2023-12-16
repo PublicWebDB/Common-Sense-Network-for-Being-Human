@@ -63,6 +63,10 @@
   "共青团常识":
   {
     "index":"#gqtcs"
+  },
+  "玩转QQ":
+  {
+    "index":"#playQQ"
   }
 };
 
