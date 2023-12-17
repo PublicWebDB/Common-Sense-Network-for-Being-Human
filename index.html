@@ -26,6 +26,14 @@
         {
             word-wrap: break-word;
         }
+        #back-to-top {
+      position: fixed;
+      bottom: 20px;
+      right: 20px;
+      display: none;
+      height: 50px;
+      width: 50px;
+    }
     </style>
 </head>
 <body>
@@ -278,8 +286,23 @@
         <ol>
             <li><a href="sgxs.html">时光信使</a>（给未来的自己留个言）</li>
         </ol>
+    <hr/>
+    <h2><a name="safeDetect">安全检测类仪器</a></h2>
+    <b>安检仪</b><br/>
+    <p>安检仪属于一种安全检测设备，通常用于检查人员、行李或包裹中是否携带有潜在的危险物品，如武器、爆炸物等</p>
+    <b>安检仪是谁发明的？</b><br/>
+    <p>安检仪是由美国物理学家古尔德发明的</p>
+    <a href="https://wenku.baidu.com/view/c803b64b17791711cc7931b765ce05087632753f.html?_wkts_=1702785264980">安检仪原理</a>
+    <h2><a name="doctorInstrument">医用类仪器</a></h2>
+    <p>影像设备：X光机、CT扫描仪、核磁共振成像仪等。</p>
+    <p>检测设备：血糖仪、血压计、心电图机、体温计等。</p>
+    <p>手术设备：手术刀、吸引器、缝合针线等。</p>
+    <p>实验室设备：显微镜、离心机、分析仪器等。</p>
+    <p>治疗设备：呼吸机、除颤器、输液泵等。</p>
+    <button onclick="topFunction()" id="back-to-top" title="返回顶部">返回顶部</button>
     </div>
     <script src="treeview.js"></script>
+    <script src="js/backToTop.js"></script>
     <script>
         var p_tags = document.getElementsByTagName("p")
         for(var i=0;i<p_tags.length;i++)
@@ -287,5 +310,6 @@
             p_tags.item(i).append(document.createElement("br"))
         }
     </script>
+
     </body>
 </html>

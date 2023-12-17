@@ -67,6 +67,14 @@
   "玩转QQ":
   {
     "index":"#playQQ"
+  },
+  "仪器常识":{
+    "医用类":"#doctorInstrument",
+    "安全检测类":"#safeDetect"
+  },
+  "建筑常识":
+  {
+    "楼房":"#loufang"
   }
 };
 
