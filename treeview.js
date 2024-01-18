@@ -88,6 +88,10 @@
   "规划局常识":
   {
     "城中村":"https://baike.baidu.com/item/%E5%9F%8E%E4%B8%AD%E6%9D%91/4172812?fr=ge_ala"
+  },
+  "江阴本地常识":
+  {
+    "江阴市政府":"#jyszf"
   }
 };
 
