@@ -27,6 +27,7 @@
   "医学常识":
   {
     "日常医学常识网":"https://publicwebdb.github.io/Daily-Medical-Knowledge-Network/",
+    "中国心理学协会":"https://www.cpsbeijing.org/"
   },
   "化学常识":
   {
